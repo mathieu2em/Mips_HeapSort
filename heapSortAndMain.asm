@@ -1,4 +1,4 @@
-# par Mathieu Perron et Philippe Auclair
+# par Mathieu Perron 
 
 .data 
 	affirmerN: .asciiz "le tableau contiendra ce nombre d'elements : "
