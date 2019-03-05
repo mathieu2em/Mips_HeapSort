@@ -1,4 +1,4 @@
-# Par Mathieu Perron et Philippe Auclair
+# Par Mathieu Perron 
 
 .data
 	demanderElem: .asciiz "valeur?"
